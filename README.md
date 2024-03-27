@@ -17,9 +17,9 @@ Add the dependencies to your `pubspec.yaml`:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_inappwebview: ^5.3.2
-  permission_handler: ^8.1.4
-  crypto: ^3.0.1
+  permission_handler: ^11.3.0
+  flutter_inappwebview: ^6.0.0
+  crypto: ^3.0.3
 ```
 
 # Implementation Overview
