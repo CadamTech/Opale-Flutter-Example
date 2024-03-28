@@ -31,7 +31,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     final httpsUri = Uri(
         scheme: 'https',
-        host: 'authenticator-dev.opale.io',
+        host: 'authenticator.opale.io',
         queryParameters: {
           "OPALE_SESSION_UUID": "Current user or session UID",
           "OPALE_WEBSITE_ID": "Your API key",
